@@ -48,32 +48,31 @@ The major frameworks/libraries used in the project are:
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Seaborn](https://seaborn.pydata.org/)
 
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+The prerequisites needed to successfully run this project are:
+* Twitter API and Elevated Access.
   ```sh
-  npm install npm@latest -g
+  Twitter API and having an Elevated Developer Account helps in scrapping data from twitter. 
   ```
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a Twitter API at [https://example.com](https://developer.twitter.com/en/docs/twitter-api)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/EstherOgutu/Election_Analysis_and_Fake_News_Detection_Using_Machine_Learning.git
    ```
 3. Install NPM packages
    ```sh
