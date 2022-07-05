@@ -1,17 +1,13 @@
 # Election-Analysis-Using-Machine-Learning
 ![My Image](Images/banner.jpg)
 ## Description
+Elections are a major part in every citizen’s life. People participate in choosing the leaders in their countries. Elections are an interesting thing to analyze since many people would like to know about matters surrounding their favourite candidates.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-This project is centered around the Kenyan Elections. This project will entail three parts. In the first part,  we will analyze how the messages from presidential candidates affect their image and eventually their voter popularity. We seek to analyze the different phrases used by the presidential aspirants affect the common mwananchi in a positive and negative way. This analysis can give a list of phrases that should be avoided and those that can be used to boost one’s popularity.
-The second aspect of this project is to analyze the qualities that can be associated with a good leader. We are going to analyze, through people’s sentiments, what are the most popular qualities that the public would wish to see in their leaders and what they want most from them. Is it good roads, reduction of commodities, more schools to be built, among others.
-The last and most sensitive part is to analyze which presidential candidate will win and by what margin. This part will not be for public consumption. We intend to hand this part of the project to a company such as Ipsos so that they can integrate it in their analysis. Access to this information will be restricted to a few people.
+This project covers two aspects. First, to analyze the qualities that can be associated with a good leader in Kenya. An analysis of through people’s sentiments was done to clarify what are the most popular qualities that the public would wish to see in their leaders are and what they want most from them. This is because politicians mention many different things that they would want to do for the citizens. Some mention good roads, reduction of prices of commodities, more schools to be built, healthcare systems among others.
 
+The second aspect is to analyze which presidential candidate will win and by what margin. This part will not be for public consumption since it is very sensitive. It is intended that this part of the project will be handed to a company such as Ipsos so that they can integrate it in their analysis. Access to this information will be restricted to a few people.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Therefore , this preject seeks to show what exactly it is that Kenyans want from their leaders as well as predicting the winning candidate and by what margin they win.
 
 ## Table of Contents
 
