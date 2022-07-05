@@ -48,7 +48,7 @@ The major frameworks/libraries used in the project are:
 * [Scikit-Learn](https://scikit-learn.org/stable/)
 * [Seaborn](https://seaborn.pydata.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
