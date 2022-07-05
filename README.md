@@ -1,13 +1,7 @@
 # Election-Analysis-Using-Machine-Learning
 ![My Image](Images/banner.jpg)
 ## Description
-Elections are a major part in every citizen’s life. People participate in choosing the leaders in their countries. Elections are an interesting thing to analyze since many people would like to know about matters surrounding their favourite candidates.
-
-This project covers two aspects. First, to analyze the qualities that can be associated with a good leader in Kenya. An analysis of through people’s sentiments was done to clarify what are the most popular qualities that the public would wish to see in their leaders are and what they want most from them. This is because politicians mention many different things that they would want to do for the citizens. Some mention good roads, reduction of prices of commodities, more schools to be built, healthcare systems among others.
-
-The second aspect is to analyze which presidential candidate will win and by what margin. This part will not be for public consumption since it is very sensitive. It is intended that this part of the project will be handed to a company such as Ipsos so that they can integrate it in their analysis. Access to this information will be restricted to a few people.
-
-Therefore , this preject seeks to show what exactly it is that Kenyans want from their leaders as well as predicting the winning candidate and by what margin they win.
+Elections are a major part in every citizen’s life. People participate in choosing the leaders in their countries. Elections are an interesting thing to analyze since many people would like to know about matters surrounding their favourite candidates.Therefore , this preject seeks to show what exactly it is that Kenyans want from their leaders as well as predicting the winning candidate and by what margin they win.
 
 ## Table of Contents
 
@@ -40,35 +34,19 @@ Therefore , this preject seeks to show what exactly it is that Kenyans want from
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This project covers two aspects. First, to analyze the qualities that can be associated with a good leader in Kenya. An analysis of through people’s sentiments was done to clarify what are the most popular qualities that the public would wish to see in their leaders are and what they want most from them. This is because politicians mention many different things that they would want to do for the citizens. Some mention good roads, reduction of prices of commodities, more schools to be built, healthcare systems among others.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+The second aspect is to analyze which presidential candidate will win and by what margin. This part will not be for public consumption since it is very sensitive. It is intended that this part of the project will be handed to a company such as Ipsos so that they can integrate it in their analysis. Access to this information will be restricted to a few people.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The major frameworks/libraries used in the project are:
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://www.python.org/doc/essays/blurb/)
+* [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
+* [Tweepy](https://docs.tweepy.org/en/stable/)
+* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [Seaborn](https://seaborn.pydata.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
