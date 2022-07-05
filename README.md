@@ -95,15 +95,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] Analyze, through people’s sentiments, what are the key things that the people wish most from their leaders.
+- [x] Predict which presidential candidate wins the election and by what margin. And also to determine if the candidate will win in the first round.
+- [x] Clustering the tweets to analyze the words that surround a particular presidential candidate
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -133,24 +127,17 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Esther Ogutu - [@ogutu_esther](https://twitter.com/ogutu_esther) - esther.ogutu@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+We found the following resources helpful and would like to give credit to.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Stackoverflow](https://stackoverflow.com/)
+* [Towards Data Science](https://towardsdatascience.com/)
+* [Medium](https://medium.com/citrispolicylab/a-simple-guide-to-scrape-tweets-using-python-ba7c691b6efa)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
