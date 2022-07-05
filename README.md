@@ -1,5 +1,5 @@
 # Election-Analysis-Using-Machine-Learning
-
+![My Image](images/my-image.jpg)
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
