@@ -129,7 +129,7 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 * Vivian Bwana - [@WearYour_Mask](https://twitter.com/WearYour_Mask) - bwanalyne@gmail.com
 * Edward Sang - [@sang_ed](https://twitter.com/sang_ed) - sang.edward9@gmail.com
 * Kiprop Amos - [@AmosKiprop15](https://twitter.com/AmosKiprop15) - amoskiprop5@gmail.com
-* Elizabeth Kihungi - [@LKihungi](https://twitter.com/LKihungi - wambeliza@gmail.com
+* Elizabeth Kihungi - [@LKihungi](https://twitter.com/LKihungi) - wambeliza@gmail.com
 * Brendon Achoki - [@achoki_brendon](https://twitter.com/brendon_achoki) - brendonachoki@gmail.com
 
 
