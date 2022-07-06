@@ -38,7 +38,7 @@ This project covers two aspects. First, to analyze the qualities that can be ass
 
 The second aspect is to analyze which presidential candidate will win and by what margin. This part will not be for public consumption since it is very sensitive. It is intended that this part of the project will be handed to a company such as Ipsos so that they can integrate it in their analysis. Access to this information will be restricted to a few people.
 
-The dataset for this project can be found [Here](https://bit.ly/3AA41UZ)
+The dataset for this project can be found [Here](https://bit.ly/3AA41UZ).
 
 ### Built With
 
