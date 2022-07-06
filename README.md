@@ -130,8 +130,7 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 
 * Vivian Bwana - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@WearYour_Mask.svg?style=social&label=@WearYour_Mask)](https://twitter.com/WearYour_Mask) - bwanalyne@gmail.com
 
-* Edward Sang - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@sang_ed.svg?style=social&label=@sang_ed)]
-(https://twitter.com/sang_ed) - sang.edward9@gmail.com
+* Edward Sang - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@sang_ed.svg?style=social&label=@sang_ed)](https://twitter.com/sang_ed) - sang.edward9@gmail.com
 
 * Kiprop Amos - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@AmosKiprop15.svg?style=social&label=@AmosKiprop15)](https://twitter.com/AmosKiprop15) - amoskiprop5@gmail.com
 
