@@ -1,4 +1,4 @@
-# Election-Analysis-Using-Machine-Learning
+# Election-Analysis-Using-Unsupervised-Learning
 ![My Image](Images/banner.jpg)
 ## Description
 Elections are a major part in every citizen’s life. People participate in choosing the leaders in their countries. Elections are an interesting thing to analyze since many people would like to know about matters surrounding their favourite candidates.Therefore , this preject seeks to show what exactly it is that Kenyans want from their leaders as well as predicting the winning candidate and by what margin they win.
