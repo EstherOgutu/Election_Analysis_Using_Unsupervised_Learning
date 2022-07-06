@@ -122,19 +122,19 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 <!-- CONTACT -->
 ## Contact
 
-* Esther Ogutu - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ogutu_esther.svg?style=social&label=@ogutu_esther)](https://twitter.com/ogutu_esther) - esther.ogutu@gmail.com
+* Esther Ogutu : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ogutu_esther.svg?style=social&label=@ogutu_esther)](https://twitter.com/ogutu_esther) - esther.ogutu@gmail.com
 
-* Christopher Toromo - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ck_toromo.svg?style=social&label=@ck_toromo)](https://twitter.com/CK_Toromo) - christophertoromo@gmail.com
+* Christopher Toromo : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ck_toromo.svg?style=social&label=@ck_toromo)](https://twitter.com/CK_Toromo) - christophertoromo@gmail.com
 
-* Victoria Mbaka - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@VictoriaSubs.svg?style=social&label=@VictoriaSubs)](https://twitter.com/VictoriaSubs) - victoriamsubs@gmail.com
+* Victoria Mbaka : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@VictoriaSubs.svg?style=social&label=@VictoriaSubs)](https://twitter.com/VictoriaSubs) - victoriamsubs@gmail.com
 
-* Vivian Bwana - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@WearYour_Mask.svg?style=social&label=@WearYour_Mask)](https://twitter.com/WearYour_Mask) - bwanalyne@gmail.com
+* Vivian Bwana : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@WearYour_Mask.svg?style=social&label=@WearYour_Mask)](https://twitter.com/WearYour_Mask) - bwanalyne@gmail.com
 
-* Edward Sang - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@sang_ed.svg?style=social&label=@sang_ed)](https://twitter.com/sang_ed) - sang.edward9@gmail.com
+* Edward Sang : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@sang_ed.svg?style=social&label=@sang_ed)](https://twitter.com/sang_ed) - sang.edward9@gmail.com
 
-* Kiprop Amos - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@AmosKiprop15.svg?style=social&label=@AmosKiprop15)](https://twitter.com/AmosKiprop15) - amoskiprop5@gmail.com
+* Kiprop Amos : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@AmosKiprop15.svg?style=social&label=@AmosKiprop15)](https://twitter.com/AmosKiprop15) - amoskiprop5@gmail.com
 
-* Elizabeth Kihungi - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@LKihungi.svg?style=social&label=@LKihungi)](https://twitter.com/LKihungi) - wambeliza@gmail.com
+* Elizabeth Kihungi : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@LKihungi.svg?style=social&label=@LKihungi)](https://twitter.com/LKihungi) - wambeliza@gmail.com
 
 * Brendon Achoki - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@achoki_brendon.svg?style=social&label=@achoki_brendon)](https://twitter.com/brendon_achoki) - brendonachoki@gmail.com
 
