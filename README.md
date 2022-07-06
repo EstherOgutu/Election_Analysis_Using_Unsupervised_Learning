@@ -123,6 +123,14 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 ## Contact
 
 Esther Ogutu - [@ogutu_esther](https://twitter.com/ogutu_esther) - esther.ogutu@gmail.com
+Christopher Toromo - [@ck_toromo](https://twitter.com/CK_Toromo) -
+Victoria Mbaka - [@VictoriaSubs](https://twitter.com/VictoriaSubs) - victoriamsubs@gmail.com
+Vivian Bwana - []() - bwanalyne@gmail.com
+Edward Sang - [@sang_ed](https://twitter.com/sang_ed) - sang.edward9@gmail.com
+Kiprop Amos - [@AmosKiprop15](https://twitter.com/AmosKiprop15) - amoskiprop5@gmail.com
+Elizabeth Kihungi - [@liz_kihungi]
+Brendon Achoki - [@achoki_brendon](https://twitter.com/brendon_achoki) - 
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
