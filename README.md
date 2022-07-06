@@ -122,7 +122,7 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 <!-- CONTACT -->
 ## Contact
 
-* Esther Ogutu - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ogutu_esther.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/ogutu_esther) - esther.ogutu@gmail.com
+* Esther Ogutu - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ogutu_esther.svg?style=social&label=@ogutu_esther)](https://twitter.com/ogutu_esther) - esther.ogutu@gmail.com
 * Christopher Toromo - [@ck_toromo](https://twitter.com/CK_Toromo) - christophertoromo@gmail.com
 * Victoria Mbaka - [@VictoriaSubs](https://twitter.com/VictoriaSubs) - victoriamsubs@gmail.com
 * Vivian Bwana - [@WearYour_Mask](https://twitter.com/WearYour_Mask) - bwanalyne@gmail.com
