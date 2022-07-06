@@ -72,38 +72,27 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/EstherOgutu/Election_Analysis_and_Fake_News_Detection_Using_Machine_Learning.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Load all the datasets in your environment
+ 
+4. Install all the libraries used in the project
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This project was purely developed for Academic Purposes. It is **NOT** for any public or commercial use.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] Analyze, through people’s sentiments, what are the key things that the people wish most from their leaders.
+- [x] Predict which presidential candidate wins the election and by what margin. And also to determine if the candidate will win in the first round.
+- [x] Clustering the tweets to analyze the words that surround a particular presidential candidate
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -126,31 +115,39 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See <a href="license.txt">license.txt</a> for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+* Esther Ogutu : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ogutu_esther.svg?style=social&label=@ogutu_esther)](https://twitter.com/ogutu_esther) - esther.ogutu@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+* Christopher Toromo : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@ck_toromo.svg?style=social&label=@ck_toromo)](https://twitter.com/CK_Toromo) - christophertoromo@gmail.com
+
+* Victoria Mbaka : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@VictoriaSubs.svg?style=social&label=@VictoriaSubs)](https://twitter.com/VictoriaSubs) - victoriamsubs@gmail.com
+
+* Vivian Bwana : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@WearYour_Mask.svg?style=social&label=@WearYour_Mask)](https://twitter.com/WearYour_Mask) - bwanalyne@gmail.com
+
+* Edward Sang : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@sang_ed.svg?style=social&label=@sang_ed)](https://twitter.com/sang_ed) - sang.edward9@gmail.com
+
+* Kiprop Amos : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@AmosKiprop15.svg?style=social&label=@AmosKiprop15)](https://twitter.com/AmosKiprop15) - amoskiprop5@gmail.com
+
+* Elizabeth Kihungi : [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@LKihungi.svg?style=social&label=@LKihungi)](https://twitter.com/LKihungi) - wambeliza@gmail.com
+
+* Brendon Achoki - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@achoki_brendon.svg?style=social&label=@achoki_brendon)](https://twitter.com/brendon_achoki) - brendonachoki@gmail.com
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+We found the following resources helpful and would like to give credit to.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Stackoverflow](https://stackoverflow.com/)
+* [Towards Data Science](https://towardsdatascience.com/)
+* [Medium](https://medium.com/citrispolicylab/a-simple-guide-to-scrape-tweets-using-python-ba7c691b6efa)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
