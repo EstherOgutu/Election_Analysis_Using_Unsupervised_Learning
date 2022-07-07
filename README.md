@@ -1,4 +1,4 @@
-# Election-Analysis-Using-Machine-Learning
+# Election-Analysis-Using-Unsupervised-Learning
 ![My Image](Images/banner.jpg)
 ## Description
 Elections are a major part in every citizen’s life. People participate in choosing the leaders in their countries. Elections are an interesting thing to analyze since many people would like to know about matters surrounding their favourite candidates.Therefore , this preject seeks to show what exactly it is that Kenyans want from their leaders as well as predicting the winning candidate and by what margin they win.
@@ -37,6 +37,8 @@ Elections are a major part in every citizen’s life. People participate in choo
 This project covers two aspects. First, to analyze the qualities that can be associated with a good leader in Kenya. An analysis of through people’s sentiments was done to clarify what are the most popular qualities that the public would wish to see in their leaders are and what they want most from them. This is because politicians mention many different things that they would want to do for the citizens. Some mention good roads, reduction of prices of commodities, more schools to be built, healthcare systems among others.
 
 The second aspect is to analyze which presidential candidate will win and by what margin. This part will not be for public consumption since it is very sensitive. It is intended that this part of the project will be handed to a company such as Ipsos so that they can integrate it in their analysis. Access to this information will be restricted to a few people.
+
+The dataset for this project can be found [Here](https://bit.ly/3AA41UZ).
 
 ### Built With
 
@@ -84,6 +86,15 @@ _Below is an example of how you can instruct your audience on installing and set
 
 This project was purely developed for Academic Purposes. It is **NOT** for any public or commercial use.
 
+This project is divided into 3 notebooks. It follows the following order:
+
+* Elections-Analysis
+
+* K-Means-Clustering and finally the 
+
+* Presidential-prediction
+
+We sectioned it into 3 parts for faster access. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -138,6 +149,7 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 
 * Brendon Achoki - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@achoki_brendon.svg?style=social&label=@achoki_brendon)](https://twitter.com/brendon_achoki) - brendonachoki@gmail.com
 
+* Jane Ngala - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@44janita.svg?style=social&label=@44janita)](https://twitter.com/44janita/) - jkash909@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
