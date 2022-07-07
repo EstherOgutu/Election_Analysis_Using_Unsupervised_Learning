@@ -149,6 +149,7 @@ Distributed under the MIT License. See <a href="license.txt">license.txt</a> for
 
 * Brendon Achoki - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@achoki_brendon.svg?style=social&label=@achoki_brendon)](https://twitter.com/brendon_achoki) - brendonachoki@gmail.com
 
+* Jane Ngala - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/@44janita.svg?style=social&label=@44janita)](https://twitter.com/44janita/) - jkash909@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
